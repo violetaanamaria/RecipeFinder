@@ -1,6 +1,6 @@
 # RecipeFinder
 
-Draica Violeta Ana-Maria, AAC
+Draica Violeta Ana-Maria, AAC, github: https://github.com/violetaanamaria/RecipeFinder 
 
 ## Descriere generală
 
