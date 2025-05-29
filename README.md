@@ -59,7 +59,7 @@ Aplicația este structurată folosind arhitectura **MVVM (Model-View-ViewModel)*
 
 1. Clonează acest repo:
    ```bash
-   git clone https://github.com/numele-tau/RecipeFinder.git
+   git clone https://github.com/violetaanamaria/RecipeFinder.git
    ```
 2. Deschide proiectul în Android Studio.
 3. Asigură-te că ai internet activ pentru a apela API-ul.
