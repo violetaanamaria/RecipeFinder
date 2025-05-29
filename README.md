@@ -53,8 +53,8 @@ Aplicația este structurată folosind arhitectura **MVVM (Model-View-ViewModel)*
 - Operații:
   - Inserare rețetă favorită
   - Ștergere rețetă după ID
-  - Ștergere toate favoritele
-  - Interogare toate favoritele
+  - Ștergere toate rețele favorite
+  - Interogare toate retetele favorite
 
 ## Cum rulezi aplicația
 
