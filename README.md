@@ -43,8 +43,9 @@ Aplicația este structurată folosind arhitectura **MVVM (Model-View-ViewModel)*
 
 ## Endpoint-uri folosite
 
-- `https://www.themealdb.com/api/json/v1/1/search.php?s={nume}` — Căutare rețete
-
+- `GET https://www.themealdb.com/api/json/v1/1/search.php?s={nume}`  
+  Caută rețete după nume.  
+  Exemplu: `https://www.themealdb.com/api/json/v1/1/search.php?s=pizza`
 ## Bază de date locală
 
 - Se folosește Room pentru persistarea rețetelor favorite.
